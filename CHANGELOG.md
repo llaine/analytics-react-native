@@ -2,6 +2,15 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+<a name="1.1.0-beta.3"></a>
+
+# [1.1.0-beta.3](https://github.com/llaine/analytics-react-native/compare/v1.1.0-beta.2...v1.1.0-beta.3) (2019-11-28)
+
+### Bug Fixes
+
+- **context:** change format only for factory_header ([30d3c3a](https://github.com/llaine/analytics-react-native/commit/30d3c3a))
+- **context:** fix for issue RNAnalytics not found [#30](https://github.com/llaine/analytics-react-native/issues/30) ([c25ffad](https://github.com/llaine/analytics-react-native/commit/c25ffad))
+
 <a name="1.1.0-beta.2"></a>
 
 # [1.1.0-beta.2](https://github.com/segmentio/analytics-react-native/compare/v1.1.0-beta.0...v1.1.0-beta.2) (2019-09-23)
